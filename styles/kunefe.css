@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#kunefe-img{
+    height: auto;
+    width: 600px;
+}
+
+h1,
+h2{
+    background-color: orange;
+}

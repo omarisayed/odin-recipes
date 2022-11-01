@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#tantuni-img{
+    height: auto;
+    width: 600px;
+}
+
+h1,
+h2{
+    background-color: orange;
+}
